@@ -1,5 +1,9 @@
 # Remembering_the_old_coding
-Revoir les bases developpement front-end
+Objectif : Revoir les bases developpement front-end
+Excercice : Créer une application de gestion des tâches.
+
+Stacks : 
+
 #Html
 
 #CSS
